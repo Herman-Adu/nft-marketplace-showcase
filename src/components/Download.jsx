@@ -17,7 +17,12 @@ const Download = () => {
         </div>
         <button
           className={styles.btnPrimary}
-          onClick={() => window.open("http://www.adudev.co.uk", "_blank")}
+          onClick={() =>
+            window.open(
+              "https://github.com/Herman-Adu/react_native_app",
+              "_blank"
+            )
+          }
           //onClick={() => {}}
         >
           Source Code
