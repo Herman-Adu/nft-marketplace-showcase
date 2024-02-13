@@ -46,7 +46,8 @@ const SectionWrapper = ({
           {showBtn && (
             <Button
               assetUrl={assets.expo}
-              link="https://expo.dev/@bigh001/react_native_app"
+              link="https://expo.dev/accounts/bigh001/projects/react-native-app/updates/3956c3fc-6f82-4d8e-85da-88bb6fe8fcfe"
+              //link="https://expo.dev/@bigh001/react_native_app"
             />
           )}
         </div>
